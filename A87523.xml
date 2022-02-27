@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology for the army, touching the eight quære's upon the late declarations and letters from the army, touching sedition falsly charged upon them. Wherein those quæres are resolved, and thereby the present proceedings of the army are proved to be legall, just &amp; honorable. By David Jenkins, prisoner in the Tower of London.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87523</idno>
+            <idno type="STC">Wing J582</idno>
+            <idno type="STC">Thomason E396_18</idno>
+            <idno type="STC">ESTC R201654</idno>
+            <idno type="EEBO-CITATION">99862154</idno>
+            <idno type="PROQUEST">99862154</idno>
+            <idno type="VID">160349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160349)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology for the army, touching the eight quære's upon the late declarations and letters from the army, touching sedition falsly charged upon them. Wherein those quæres are resolved, and thereby the present proceedings of the army are proved to be legall, just &amp; honorable. By David Jenkins, prisoner in the Tower of London.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A reply to: Prynne, William. VIII queries upon the late declarations of, and letters from, the army (Wing P3949).</note>
+                  <note>Annotation on Thomason copy: "July 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  VIII queries upon the late declarations of, and letters from, the army --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160349:1" rendition="simple:additions"/>
+            <p>AN APOLOGY FOR THE ARMY, Touching the eight Quaere's upon the late Declarations and Letters from the Army, touching ſedition falſly charged upon them.</p>
+            <p>Wherein thoſe Quaeres are reſolved, and thereby the preſent proceedings of the Army are proved to be Legall, Juſt &amp; Honorable.</p>
+            <p>By DAVID JENKINS, Priſoner in the Tower of LONDON.</p>
+            <q>Quis tulerit <hi>Gracchos</hi> de ſeditione querentes.</q>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="apology">
+            <pb facs="tcp:160349:2"/>
+            <pb n="1" facs="tcp:160349:2"/>
+            <head>AN APOLOGIE FOR THE ARMY.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Treaſonable and inſolent <hi>Quaeries</hi> make the Army the Houſes Subjects, and not the Kings.
+<note place="margin">
+                  <hi>Bracton fol.</hi> 118. <hi>Stanford. f.</hi> 2</note> None by the Lawes of this Land can in this King<g ref="char:EOLhyphen"/>dome have any Army but His Majeſty.</p>
+            <p>It appeares, the Army doth now evidently perceive, that they were miſ-led by the ſpecious pretences of <hi>Salus Populi,</hi> the maintenance of the Kings Honour, and of the maintenance of the Lawes of the Land, and liberties of the Subject, to take up Armes againſt their naturall Liege Lord and Soveraigne, the King: The People is the Body,
+<note place="margin">
+                  <hi>Mag. Char. c.</hi> 1. <hi>&amp; ultim.</hi> All the act concerning the King, Church, and Churchmen. 25. <hi>E.</hi> 1. <hi>c.</hi> 1.</note> the King is their Head; was the Body ſafe when the Head was diſtreſſed and impriſoned? For Lawes and Liberties have not the prevailing partie in the two Houſes deſtroyed a<g ref="char:EOLhyphen"/>bove 100 Acts of Parliament, and in effect, <hi>Magna Charta, &amp; Charta de Foreſtâ,</hi> which are the common Lawes of the Land? Doth Excize, Fifth, and Twentieth Parts, Meale<g ref="char:EOLhyphen"/>money,
+<pb n="2" facs="tcp:160349:3"/>and many more burdens which this Land never heard of before maintaine the Liberties of the peo<g ref="char:EOLhyphen"/>ple: You, and that partie of the two Houſes, made the Army by ſeverall Declarations before ingagement, believe that you would preſerve the Kings Honour and Greatneſſe, the Lawes and Liberties of the people: The Army and the whole Kingdome now <hi>facta vident,</hi> ſee your actions, and have no reaſon longet to believe your Oaths, Vowes, and Declarations; and ſince that partie in the two Houſes re<g ref="char:EOLhyphen"/>fuſe to performe any thing according to their ſaid Oathes, Vowes, and Declarations, The Army and the Kingdome may and ought, both by your own principles and the Lawes of the Land, purſue the end for which they were rayſed. And ſo your firſt <hi>Quaere</hi> is reſolved, whereby it is manifeſt, that ſpecious pretences to carry on ambitious and pernicious deſignes, fix not upon the Army, but upon you, and the pre<g ref="char:EOLhyphen"/>vailing partie in both Houſes.</p>
+            <div type="part">
+               <head>The Solution of the ſecond Quaere.</head>
+               <p>The Army, to their eternall honour, have freed the King from impriſonment at <hi>Holmby.</hi>
+                  <note place="margin">3. <hi>par. Inſtit. f.</hi> 12.39. <hi>Eli.</hi> 1. <hi>Iacob. ibi.</hi> 2. &amp; 3. <hi>E.</hi> 6. <hi>cap.</hi> 2. 11. <hi>H.</hi> 7. <hi>c.</hi> 1.</note> It was High Treaſon to impriſon His Majeſtie: To free His Majeſtie from that im<g ref="char:EOLhyphen"/>priſonment was to deliver Him out of Traiterous hands, which was the Armies bounden dutie by the Law of God and the Land. That partie refuſed to ſuffer His Majeſtie to have two of His Chaplaines for the exerciſe of His Con<g ref="char:EOLhyphen"/>ſcience who had not taken the Covenant, free acceſſe was not permitted, doth the Army uſe His Majeſtie ſo? all men ſee that acceſſe to Him is free, and ſuch Chaplaines as His Majeſtie deſired are now attending on His Grace: Who are the guiltie perſons, the Army, who in this action of de<g ref="char:EOLhyphen"/>livering the King act according to Law, or the ſaid partie who acted Treaſonably againſt the Law? Who doth ob<g ref="char:EOLhyphen"/>ſerve the Proteſtation better, they who impriſon their King, or they who free Him from priſon?</p>
+               <pb n="3" facs="tcp:160349:3"/>
+               <p>That this Army was rayſed by the Parliament is utterly falſe: The Army was rayſed by the two Houſes upon the ſpecious pretences of the Kings Honour, common ſafe<g ref="char:EOLhyphen"/>tie, and the preſervation of Lawes and Liberties, which how made good hath beene ſhewed before, and all the peo<g ref="char:EOLhyphen"/>ple of the Kingdome doe find by wofull experience.</p>
+               <p>The two Houſes are no more a Parliament then a Body without a Head a man.
+<note place="margin">14. <hi>H.</hi> 8.3.36. <hi>H.</hi> 8. <hi>Dier.</hi> 60.4. <hi>par. Inſtit. p.</hi> 1.3.12.14.16. <hi>R.</hi> 2. <hi>c.</hi> 1.5. <hi>Eliz. c.</hi> 2.17. <hi>Carol.</hi> The act for the continu<g ref="char:EOLhyphen"/>ance of this Parliament.</note> The two Houſes can make no Court without the King, they are no Body Corporate with<g ref="char:EOLhyphen"/>out the King, they all, Head and Members, make one Corpo<g ref="char:EOLhyphen"/>rate Body; and this is ſo cleare a truth, that in this Parlia<g ref="char:EOLhyphen"/>ment, by the Act of 17 <hi>Caroli,</hi> it is declared, That the Par<g ref="char:EOLhyphen"/>liament ſhall not be diſſolved or prorogued but by act of Parliament; but the two Houſes may reſpectively adjourne themſelves; two Houſes &amp; a Parliament are ſeverall things. <hi>Cuncta fidem vero faciunt,</hi> all circumſtances agree to prove this truth. Before the <hi>Norman</hi> Conqueſt, and ſithence to this day, the King is holden Principall, <hi>Caput, &amp; ſinis,</hi> that is, the beginning, Head and chief end of the Parliament, as appear<g ref="char:EOLhyphen"/>eth by the Treatiſe of the manner of holding of Parliaments made before the <hi>Norman</hi> Conqueſt;
+<note place="margin">4. <hi>par. Inſtit. pag.</hi> 12.</note> by the Writ of Su<g ref="char:cmbAbbrStroke">̄</g>mons of Parliament whereby the Treaty and <hi>Parler</hi> in Parliament is to be had with the King onely, by the Common Law,
+<note place="margin">4. <hi>par. Inſtit. pag.</hi> 4.9. 5. <hi>Eli. c.</hi> 1.2.</note> by the Statute-Law, by the Oath of Supremacy, taken at this and every Parliament, it doth manifeſtly appeare, that without the King there can be no colour of a Parliament.</p>
+               <p>How many Votes have they revoked in one Seſſion, yea, and Bills? Was there ever the like done? Nay, is not the conſtant courſe of Parliaments violated and made nothing thereby? They are guarded by Armed-men, divide the publique money among themſelves, and that partie in lea<g ref="char:EOLhyphen"/>vours to bring in a Forreigne to invade this Land againe: If they be no Parliament, as clearely they are none with<g ref="char:EOLhyphen"/>out His Majeſtie, they have no privileges, but doe exerciſe an Arbitrary, Ty<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>annicall, and Treaſonable power over the people.</p>
+               <pb n="4" facs="tcp:160349:4"/>
+               <p>By the Law of the Land, when Treaſon or Felony is committed,
+<note place="margin">7. <hi>E.</hi> 4.20. 8.. <hi>E.</hi> 4.3. 9. <hi>E.</hi> 4.27. 4. <hi>H.</hi> 7.18. 27. <hi>H.</hi> 8.23.</note> it is lawfull for every Subject, who ſuſpects the Offender, to apprehend him, and to ſecure him ſo, that Ju<g ref="char:EOLhyphen"/>ſtice may be done upon him according to the Law.</p>
+               <p>You ſay, The diſobedience of the Army is a ſad publique preſident, like to conjure up a ſpirit of univerſall diſobedi<g ref="char:EOLhyphen"/>ence, I pray object not that conjuring up to the Army, whereof you, &amp; the prevailing partie in the Houſes are guil<g ref="char:EOLhyphen"/>tie; who conjured up the ſpirit of univerſall diſobedience againſt His Majeſtie, your and our onely Supreme Govern<g ref="char:EOLhyphen"/>our, But you, and that partie in the two Houſes, and even then, when the houſe of Commons were taking, and did take the ſaid Oath of Supremacy? For the Covenant you mention, it is an Oath againſt the Lawes of the Land, a<g ref="char:EOLhyphen"/>gainſt the Petition of Right, deviſed in <hi>Scotland,</hi> wherein the firſt Article is to maintaine the Reformed Religion in the Church of <hi>Scotland:</hi>
+                  <note place="margin">2. <hi>pars.</hi> Coll. of Ord. <hi>pag.</hi> 803. Petition of right 3. <hi>Car.</hi> 2. <hi>pars.</hi> inſtit. 719.</note> And certainly there is no Subject of the Engliſh Nation doth know what the Scottiſh Reli<g ref="char:EOLhyphen"/>gion is. I believe the Army tooke not the Covenant: No man by the Law can give an Oath in a new caſe without an Act of Parliament; and therefore the impoſers thereof are very blamable and guiltie of the higheſt Crime.</p>
+               <p>The Writer of theſe <hi>Quaeries</hi> ſeemes to profeſſe the Lawes, let him declare what Act of Parliament doth juſti<g ref="char:EOLhyphen"/>fie the tendring, giving, or taking of the ſaid Oath: he knoweth there is none, he knoweth that all the parts of it are deſtructive of the Lawes and Government to maintaine which the Law of nature &amp; the Law of the Land had obliged them:
+<note place="margin">
+                     <hi>Mag. Chart. cap.</hi> 1. <hi>&amp; Ul<g ref="char:EOLhyphen"/>timo Arti<g ref="char:EOLhyphen"/>culi cleri,</hi> and many o<g ref="char:EOLhyphen"/>ther ſtatutes. 16. <hi>Ed.</hi> 4.10.</note> The Oath of the Covenant makes the Houſes Su<g ref="char:EOLhyphen"/>preme Governours in cauſes Eccleſiaſticall, the Oath of Supremacy makes the King ſo, and yet both taken by the ſame perſons, at the ſame time. What credit is to be given to perſons who make nothing of Oathes, and contradict themſelves? How doe the Covenant and the Oath of Su<g ref="char:EOLhyphen"/>premacy agree? How doth their Proteſtation and the Co<g ref="char:EOLhyphen"/>venant
+<pb n="5" facs="tcp:160349:4"/>agree? How doe their Declarations and Oathes a<g ref="char:EOLhyphen"/>gree? The Lord be mercifull to this Land for theſe Oaths.</p>
+               <p>It is a ſad thing to conſider that ſo many gentlemen who profeſſe the lawes, and ſo many worthy men in both Hou<g ref="char:EOLhyphen"/>ſes ſhould be ſo tranſported as they are, knowing that the Lawes of the Land from time to time, and in all times, are contrary to all their actions, and that yet they ſhould amuſe themſelves and the people with the word of Parliament, without the King, and with the Covenant; whereas they know they are no Parliament without His Majeſtie, and that Engliſh men throughout the Kingdome ſhould ſweare a Covenant, to preſerve the reformed Religion of <hi>Scotland,</hi> in Doctrine, Worſhip, Diſcipline and Government, which they no more know than the Doctrine, Worſhip, Diſci<g ref="char:EOLhyphen"/>pline and Government of <hi>Preſter Iohn</hi> in <hi>Ethiopia:</hi> if they conſider it, they cannot but diſcerne that this is a high de<g ref="char:EOLhyphen"/>ſperate and impious madneſſe.</p>
+               <p>Be wiſe in time, without the King and the Lawes you will never have one houre of ſafety for your Perſons, Wives, Children or Eſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tes: Be good to your ſelves, and to your Poſterities; apply your ſelves to be capable of an Act of Ob<g ref="char:EOLhyphen"/>livion, and of a generall Pardon, and to be able and willing to pay the Souldiery, and to allow a reaſonable liberty for mens conſciences, and God will bleſſe your endeavours, and the people (to whom you are now very hatefull) will have you in better eſtimation.</p>
+            </div>
+            <div type="part">
+               <head>The third Quaerie is thus anſwered.</head>
+               <p>You reſemble the Army to <hi>Iacke Cade</hi> and his Compli<g ref="char:EOLhyphen"/>ces, and you cite the Act of Parliament of 31. <hi>Hen.</hi> 6. <hi>cap.</hi> 1. and that it may appeare who acts the Part of <hi>Iacke Cade,</hi> you and that Party in the two Houſes, or the Army, I thinke it neceſſary to ſet downe the ſaid Act in words at large as followeth.</p>
+               <p>Firſt, Whereas <hi>the moſt abominable Tyrant, horrible, odi<g ref="char:EOLhyphen"/>ous
+<pb n="6" facs="tcp:160349:5"/>and arrant falſe Traytor Iohn Cade,</hi> calling and naming himſelf ſometime <hi>Mortimer,</hi> ſometime Cap. of <hi>Kent,</hi> which name, fame, acts, and feats are to be removed out of the ſpeech and mind of every faithfull Chriſtian man perpetu<g ref="char:EOLhyphen"/>ally, falſely and <hi>traiterouſly purpoſing,</hi> and imagining <hi>the per<g ref="char:EOLhyphen"/>petuall deſtruction of the Kings ſaid Perſon, and finall ſubver<g ref="char:EOLhyphen"/>ſion of this Realme, taking upon him Royall power, and gathe<g ref="char:EOLhyphen"/>ring to him the Kings people in great numbers, by falſe, ſubtle imagined Language, and ſeditiouſly making a ſtirring Rebel<g ref="char:EOLhyphen"/>lion, and Inſurrection, under colour of juſtice, for reformation of the Lawes of the ſaid King, robbing, ſtealing, and ſpoiling great part of his faithfull people,</hi> Our ſaid Soveraigne Lord the King conſidering the premiſes, with many other which were more odious to remember, by adviſe and conſent of the Lords aforeſaid, and at the requeſt of the ſaid Commons, and by authority aforeſaid, hath ordained and eſtabliſhed that the ſaid <hi>Iohn Cade</hi> ſhall be reputed, had, named, <hi>and de<g ref="char:EOLhyphen"/>clared a falſe Traytour to our Soveraigne Lord the King;</hi> and that all his tyranny, acts, feats, and falie opinions ſhall be voyded, abated, annulled, deſtroyed &amp; put out of remem<g ref="char:EOLhyphen"/>brance for ever: and that all enditements and all things de<g ref="char:EOLhyphen"/>pending thereof, had and made under the power of tyran<g ref="char:EOLhyphen"/>ny ſhall be likewiſe void a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ulled, abated, repealed, and hol<g ref="char:EOLhyphen"/>den for none: and that the bloud of none of them be there<g ref="char:EOLhyphen"/>of defiled nor corrupted, but by the authority of the ſaid Parliament cleerely declared for ever: and that all endite<g ref="char:EOLhyphen"/>ments in times comming in like caſe under power of tyran<g ref="char:EOLhyphen"/>ny, rebellion and ſtirring had, ſhall be of no Record nor ef<g ref="char:EOLhyphen"/>fect, but void in Law; and <hi>all the Petitions delivered to the ſaid King in his laſt Parliament, holden at VVeſtminſter, Noveb.</hi> 6. <hi>in the</hi> 29. <hi>of his Raigne, againſt his mind by him not agreed, ſhall be taken and put in oblivion out of remem<g ref="char:EOLhyphen"/>brance,</hi> undone, voyded, annulled, and deſtroyed for ever, as a thing purpoſed againſt God and conſcience, and againſt His Royall Eſtate and preeminence, and alſo diſhonourable and unreaſonable.</p>
+               <pb n="7" facs="tcp:160349:5"/>
+               <p>Now wee are to examine who hath trod in the ſteps of <hi>Jack Cade,</hi> you and the preſent prevailing party of the two Houſes <hi>tooke upon them, and doe take all the Royall Power in all things;</hi> ſo did <hi>Jack Cade,</hi> as appeares by the ſaid Act; the Army doe not ſo: They who impriſon the King <hi>pur<g ref="char:EOLhyphen"/>poſe to deſtroy His Perſon</hi> (our impriſoned Kings alwayes
+<note n="*" place="margin">Edward 2. Henry 6. Richard 2.</note> fared ſo) <hi>Jack Cade</hi> did likewiſe ſo purpoſe, but the Army doe not ſo: The ſaid party in the two Houſes <hi>made a ſtirring under colour of Justice for Reformation of the Lawes;</hi> ſo did <hi>Jack Cade:</hi> The Army doe not ſo, but deſire that the Lawes ſhould be obſerved: <hi>Jack Cade le<g ref="char:EOLhyphen"/>vied Warre againſt the King,</hi> the Army preſerves Him: <hi>Jack Cade</hi> dyed a <hi>Declared Traytor to his Soveraigne Lord the King;</hi> this Army lives to have the glorious true Ho<g ref="char:EOLhyphen"/>nour of being reſtorers of their King.</p>
+               <p>
+                  <hi>Simon Sudbury</hi> Archbiſhop of <hi>Canterbury</hi> was murthe<g ref="char:EOLhyphen"/>ted by <hi>Jack Cade: William Laud</hi> Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> was likewiſe murthered by that party of the two Hou<g ref="char:EOLhyphen"/>ſes, for that an Ordinance by Law cannot take away any mans life,
+<note place="margin">25 Ed. 3.4. 28 Ed. 3.3. Petition of Right. 3 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar.</note> &amp; his life was taken away by an Ordinance of the two Houſes, the Army had no hand in it. Many miſled by <hi>Jack Cade,</hi> perceiving his Trayterous purpoſes, fell from him; and as that was lawfull, juſt, and Honourable, ſo it is for this Army to adhere to their naturall King, and to indeavour to ſettle the Kingdome againe in the juſt Lawes and Liberties thereof: <hi>London</hi> did then right wor<g ref="char:EOLhyphen"/>thily adhere to the King and the Lawes, and not to <hi>Iack Cade</hi> and his ſpecious pretences, and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is hoped they will now ſo doe: By this it appeares, that the Gentlemans Diſcourſe touching <hi>Iack Cade,</hi> faſtens altogether on his party, and cleareth the Army.</p>
+            </div>
+            <div type="part">
+               <head>To the <hi>IV.</hi> which is ſolved thus.</head>
+               <p>The Arreares of the Army (howbeit it is the leaſt thing they looke after) yet being not paid them, it is by the Law of the Land a ſufficient cauſe to leave and deſert that party
+<pb n="8" facs="tcp:160349:6"/>in the Houſes: A perſon who ſerves in any kinde, and is not paid his wages, the deſertion of that ſervice is warran<g ref="char:EOLhyphen"/>table by the Lawes of the Land:
+<note place="margin">Fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z. N. B. 25 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 9 Ed. 4.20. 38 H. 6.27. 23 Eliz. Dier 369.</note> You ſay, the Houſes will reforme all things when the Army doth disband; who will beleeve it? Will any beleeve that the ſetling of the Presbytery will doe it? Will any beleeve that his Maje<g ref="char:EOLhyphen"/>ſty will paſſe the Propoſitions ſent to Him to <hi>Newcaſtle?</hi> Will any man beleeve that this Kingdome will ever bee quiet, without His Majeſty and the ancient and juſt Lawes? Can the Members of the Army conceive any of them to be ſafe in any thing, without a Pardon from His Majeſty? Have they not ſeene ſome of their Fellows hanged before their eyes, for actions done as Souldiers? Shall the King<g ref="char:EOLhyphen"/>dome have no account of the many Millions received of the Publike Money? Will the Members of the Houſes accuſe themſelves? Shall private and publike Debts bee never paid? Shall the Kingdome lye ever under burthens of Oppreſſion and Tyranny? There is no viſible way to remedy all theſe enormities, but the power of the Army.</p>
+            </div>
+            <div type="part">
+               <head>To the <hi>V.</hi> which is ſolved thus.</head>
+               <p>The Kingdome hath better aſſurance of Reformation from the Army, then from the Houſes, for that in their Military way they have bin juſt, faithfull, &amp; honorable, they have kept their words: That party of the Houſes have bin conſtant to nothing but in dividing the publike Treaſure among themſelves, and in laying burdens upon the peo<g ref="char:EOLhyphen"/>ple, and in breaking all the Oathes, Vowes, and Promiſes they ever made:
+<note place="margin">2 &amp; 2 Ed. 6. cap. 2.11 H 7 cap. 1. Calvins caſe, 7. para, Cook Iol. 11.</note> As the Army hath power, ſo now ad<g ref="char:EOLhyphen"/>hering to the King, all the Lawes of God, Nature, and Man, are for them, their Armes are juſt, and bleſſed; and the King is bound in Juſtice to reward his Deliverers with Honour, Profit, and meet Liberty of Conſcience.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:160349:6"/>
+               <head>To the <hi>VI.</hi> Quaere.</head>
+               <p>All the ſixth <hi>Quaere</hi> containes Calumnies caſt upon the Armie; the new elections are againſt all the Lawes men<g ref="char:EOLhyphen"/>tioned in the Margin,
+<note place="margin">11 H. 4. c. 1. 1 H. 5. c. 1. 8 H. 6. c. 7. 23 H. 6. c. 15.</note> and are againſt the ejection of the old Members: and by this it may be judged, what a Houſe of Commons we have. By the ſaid Lawes it ap<g ref="char:EOLhyphen"/>peares, that if any undue returne be made, the perſon re<g ref="char:EOLhyphen"/>turned is to continue a Member; the Sherifes puniſhment is two hundred pounds, one to the King, and the other to the partie that is duly elected; impriſonment for a yeare, without Bayle or Mainpriſe: and that perſon who is un<g ref="char:EOLhyphen"/>duly returned, ſhall ſerve at his owne charge, and have no benefit at the end of the Parliament, by the Writ <hi>de ſolu<g ref="char:EOLhyphen"/>tione feodorum Militum, Civium &amp; Burgenſium Parliament.</hi> And the tryall of the falſitie of the returne, is to be before the Juſtices of Aſſiſes in the proper Countie, or by Action of Debt in any Court of Record. This condemnes the Committee for undue elections, which hath been practiſed but of late times: for beſides theſe Lawes, it is a Maxime of the Common Law,
+<note place="margin">3 Ed. 4.20. 5 Ed. 4.42.</note> an Averment is not receivable a<g ref="char:EOLhyphen"/>gainſt the returne of the Sherife, for his returne is upon Oath which Oath is to be credited in that fuit wherein the returne is made.</p>
+               <p>The ſaid Statutes condemne elections of ſuch men which were not reſiant and dwelt in the Countie or Bo<g ref="char:EOLhyphen"/>roughs for which they were returned; and any abuſive practiſe of late times to the contrary, is againſt the Law, and ought not to be allowed.</p>
+            </div>
+            <div type="part">
+               <head>To the <hi>VII.</hi> Quaere.</head>
+               <p>The <hi>Quaeriſt</hi> ſaith, That the Votes of the Independents in the Houſes were arbitrarie, exorbitant, and irregular, and that they diſpoſed and fingred more of the common Trea<g ref="char:EOLhyphen"/>ſure then others: That whole <hi>Quaere,</hi> I believe, is falſe and
+<pb n="10" facs="tcp:160349:7"/>ſlanderous;
+<note place="margin">57 E. 3. c. 17.</note> and the Author ought to make it good, or elſe to undergoe the Law of <hi>Talion;</hi> which is, to ſuffer ſuch puniſhment, failing of his proofe, as the accuſed ſhould, in caſe of proofe made.</p>
+            </div>
+            <div type="part">
+               <head>To the <hi>VIII.</hi> Quaere.</head>
+               <p>This <hi>Quaere</hi> is all minatorie and threatning, and the con<g ref="char:EOLhyphen"/>trarie of every part is true: by the deliverance of the King and Kingdome from the bondage of that partie in the two Houſes by the Army, their renowne will be ever<g ref="char:EOLhyphen"/>laſting; they ſecure themſelves, they content and pleaſe the Kingdome, Citie, and Countrey, as appeares by their con<g ref="char:EOLhyphen"/>fluence to ſee his Majeſtie and the Armie, and their accla<g ref="char:EOLhyphen"/>mations for his Majeſties ſafetie and reſtitution: all which doth evidence to every one of the Armie, how acceptable the intentions of the Armie are to the people of this Land, who have been ſo long inthralled.</p>
+               <p>Sir <hi>Thomas Fairfax,</hi> let your Worthineſſe remember your extraction and your Ladies, by the grace and favour of the Prince, to be in the ranke of Nobilitie; remember what honour and glory the preſent Age and all poſteritie will juſtly give to the reſtorer of the King to his Throne, of the Lawes to their ſtrength, and of the afflicted people of this Land to peace: let the Colonels and Commanders under you, and likewiſe your Souldierie, reſt aſſured, that they ſhall not only ſhare in the renowne of this action, but alſo ſhall have ſuch remuneration as their hautie courage and ſo high a vertue doth deſerve: This his Majeſtie can and will doe, the Houſes neither will nor can; and God bleſſe you all, and proſper you.</p>
+               <p>
+                  <hi>I conclude all, as I have alwayes done: Without an Act of Oblivion, a generall Pardon, the Arreares of the Souldierie payd, and a regard to Libertie of Conſcience, this Kingdome will certainly be ruined.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
